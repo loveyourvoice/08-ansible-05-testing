@@ -1,0 +1,6 @@
+---
+# defaults file for vector-role
+clickhouse_user: netology
+clickhouse_password: netology
+# Desired version of vector
+vector_version: 0.21.1
