@@ -24,3 +24,8 @@
 # TOX
 ## Решение
 ![tox](https://i.imgur.com/mjSzAoY.png)
+
+# Доработка
+## Вывод molecule --version и molecule drivers
+
+![Доработка](https://i.imgur.com/AHCsDgF.png)
